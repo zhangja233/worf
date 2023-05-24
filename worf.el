@@ -130,6 +130,7 @@
 ;;; Code:
 
 ;; ——— Requires ————————————————————————————————————————————————————————————————
+(require 'hydra)
 (require 'ace-link)
 (require 'dired)
 (require 'flyspell)
